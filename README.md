@@ -45,7 +45,7 @@ react-native run-android
 ```
 be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
 
-## Demonstrasi
+## Demonstration
 <p align='center'>
   <span>
     <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/scrolling.gif?raw=true' width=400 />
