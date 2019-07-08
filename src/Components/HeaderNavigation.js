@@ -23,9 +23,7 @@ class HeaderMenu extends Component {
         return (
             <View style={styles.headerContainer}>
                 <TouchableOpacity onPress={() => this.props.navigation.openDrawer()}  style={styles.leftHeader}>
-                    <Image source={{
-                        uri:'https://raw.githubusercontent.com/aahmadhadi/react-native-note-app/master/src/Assets/Image/img.jpg',
-                        }} style={{width: 32,height: 32,borderRadius: 32 / 2,}}/>
+                    <Image source={require('../Assets/Image/Shaloom-Razade.jpeg')} style={{width: 32,height: 32,borderRadius: 32 / 2,}}/>
                 </TouchableOpacity>
                 <View style={{alignItems:'center',justifyContent:'center', flex:1}}>
                     <Text style={styles.headerTitle}>NOTE APP</Text>
