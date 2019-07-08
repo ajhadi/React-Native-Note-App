@@ -45,7 +45,24 @@ react-native run-android
 ```
 be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
 
+## Demonstrasi
+<p align='center'>
+  <span>
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/scrolling.gif?raw=true' width=400 />
+  </span>
+  <span>
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sort.gif?raw=true' width=200 />
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/search.gif?raw=true' width=200 />
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sortbycategory.gif?raw=true' width=200 />
+  </span>
+  <span>
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletenote.gif?raw=true' width=200 />
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/updatenote.gif?raw=true' width=200 />
+    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletecategory.gif?raw=true' width=200 />
+  </span>
+</p>
 
+<hr>
 
 ## Authors
 * [Ahmad Hadi Jaelani](https://github.com/aahmadhadi)
