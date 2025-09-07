@@ -48,20 +48,20 @@ be sure if you connected with a device on debugging mode or use the emulator on 
 ## Demonstration
 
 <p>Home Screen</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/scrolling.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/scrolling.gif?raw=true' width=150 />
 <p>Sort Ascending / Descending</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sort.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sort.gif?raw=true' width=150 />
 <p>Search</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/search.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/search.gif?raw=true' width=150 />
 <p>Sort by Category</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sortbycategory.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/sortbycategory.gif?raw=true' width=150 />
 <p>Insert Delete Note</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletenote.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletenote.gif?raw=true' width=150 />
 <p>Update Note</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/updatenote.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/updatenote.gif?raw=true' width=150 />
 <p>Insert Delete Category</p>
-    <img src='https://github.com/aahmadhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletecategory.gif?raw=true' width=150 />
+    <img src='https://github.com/ajhadi/React-Native-Note-App/blob/master/src/Assets/DummyData/insertdeletecategory.gif?raw=true' width=150 />
 
 
 ## Authors
-* [Ahmad Hadi Jaelani](https://github.com/aahmadhadi)
+* [AJ Hadi](https://github.com/ajhadi)
